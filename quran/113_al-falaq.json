@@ -1,0 +1,38 @@
+{
+  "number": 113,
+  "latinName": "Al-Falaq",
+  "arabicName": "الفلق",
+  "totalAyat": 5,
+  "ayahs": [
+    {
+      "numberInSurah": 1,
+      "numberGlobal": 6226,
+      "arabic": "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ",
+      "translation": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan yang (menjaga) fajar (subuh)"
+    },
+    {
+      "numberInSurah": 2,
+      "numberGlobal": 6227,
+      "arabic": "مِنْ شَرِّ مَا خَلَقَۙ",
+      "translation": "dari kejahatan (makhluk yang) Dia ciptakan,"
+    },
+    {
+      "numberInSurah": 3,
+      "numberGlobal": 6228,
+      "arabic": "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ",
+      "translation": "dari kejahatan malam apabila telah gelap gulita,"
+    },
+    {
+      "numberInSurah": 4,
+      "numberGlobal": 6229,
+      "arabic": "وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ",
+      "translation": "dari kejahatan perempuan-perempuan (penyihir) yang meniup pada buhul-buhul (talinya),"
+    },
+    {
+      "numberInSurah": 5,
+      "numberGlobal": 6230,
+      "arabic": "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ࣖ",
+      "translation": "dan dari kejahatan orang yang dengki apabila dia dengki.”"
+    }
+  ]
+}

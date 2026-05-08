@@ -1,0 +1,26 @@
+{
+  "number": 108,
+  "latinName": "Al-Kauṡar",
+  "arabicName": "الكوثر",
+  "totalAyat": 3,
+  "ayahs": [
+    {
+      "numberInSurah": 1,
+      "numberGlobal": 6205,
+      "arabic": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ",
+      "translation": "Sesungguhnya Kami telah memberimu (Nabi Muhammad) nikmat yang banyak."
+    },
+    {
+      "numberInSurah": 2,
+      "numberGlobal": 6206,
+      "arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ",
+      "translation": "Maka, laksanakanlah salat karena Tuhanmu dan berkurbanlah!"
+    },
+    {
+      "numberInSurah": 3,
+      "numberGlobal": 6207,
+      "arabic": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ ࣖ",
+      "translation": "Sesungguhnya orang yang membencimu, dialah yang terputus (dari rahmat Allah)."
+    }
+  ]
+}

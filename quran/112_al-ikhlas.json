@@ -1,0 +1,32 @@
+{
+  "number": 112,
+  "latinName": "Al-Ikhlāṣ",
+  "arabicName": "الاخلاص",
+  "totalAyat": 4,
+  "ayahs": [
+    {
+      "numberInSurah": 1,
+      "numberGlobal": 6222,
+      "arabic": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
+      "translation": "Katakanlah (Nabi Muhammad), “Dialah Allah Yang Maha Esa."
+    },
+    {
+      "numberInSurah": 2,
+      "numberGlobal": 6223,
+      "arabic": "اَللّٰهُ الصَّمَدُۚ",
+      "translation": "Allah tempat meminta segala sesuatu."
+    },
+    {
+      "numberInSurah": 3,
+      "numberGlobal": 6224,
+      "arabic": "لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ",
+      "translation": "Dia tidak beranak dan tidak pula diperanakkan"
+    },
+    {
+      "numberInSurah": 4,
+      "numberGlobal": 6225,
+      "arabic": "وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ",
+      "translation": "serta tidak ada sesuatu pun yang setara dengan-Nya.”"
+    }
+  ]
+}

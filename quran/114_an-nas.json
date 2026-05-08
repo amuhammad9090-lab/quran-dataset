@@ -1,0 +1,44 @@
+{
+  "number": 114,
+  "latinName": "An-Nās",
+  "arabicName": "النّاس",
+  "totalAyat": 6,
+  "ayahs": [
+    {
+      "numberInSurah": 1,
+      "numberGlobal": 6231,
+      "arabic": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
+      "translation": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan manusia,"
+    },
+    {
+      "numberInSurah": 2,
+      "numberGlobal": 6232,
+      "arabic": "مَلِكِ النَّاسِۙ",
+      "translation": "raja manusia,"
+    },
+    {
+      "numberInSurah": 3,
+      "numberGlobal": 6233,
+      "arabic": "اِلٰهِ النَّاسِۙ",
+      "translation": "sembahan manusia"
+    },
+    {
+      "numberInSurah": 4,
+      "numberGlobal": 6234,
+      "arabic": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
+      "translation": "dari kejahatan (setan) pembisik yang bersembunyi"
+    },
+    {
+      "numberInSurah": 5,
+      "numberGlobal": 6235,
+      "arabic": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+      "translation": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+    },
+    {
+      "numberInSurah": 6,
+      "numberGlobal": 6236,
+      "arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ",
+      "translation": "dari (golongan) jin dan manusia.”"
+    }
+  ]
+}

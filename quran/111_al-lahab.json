@@ -1,0 +1,38 @@
+{
+  "number": 111,
+  "latinName": "Al-Lahab",
+  "arabicName": "اللّهب",
+  "totalAyat": 5,
+  "ayahs": [
+    {
+      "numberInSurah": 1,
+      "numberGlobal": 6217,
+      "arabic": "تَبَّتْ يَدَآ اَبِيْ لَهَبٍ وَّتَبَّۗ",
+      "translation": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia.763)"
+    },
+    {
+      "numberInSurah": 2,
+      "numberGlobal": 6218,
+      "arabic": "مَآ اَغْنٰى عَنْهُ مَالُهٗ وَمَا كَسَبَۗ",
+      "translation": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan."
+    },
+    {
+      "numberInSurah": 3,
+      "numberGlobal": 6219,
+      "arabic": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۙ",
+      "translation": "Kelak dia akan memasuki api yang bergejolak (neraka),"
+    },
+    {
+      "numberInSurah": 4,
+      "numberGlobal": 6220,
+      "arabic": "وَّامْرَاَتُهٗ ۗحَمَّالَةَ الْحَطَبِۚ",
+      "translation": "(begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah)."
+    },
+    {
+      "numberInSurah": 5,
+      "numberGlobal": 6221,
+      "arabic": "فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍ ࣖ",
+      "translation": "Di lehernya ada tali dari sabut yang dipintal."
+    }
+  ]
+}

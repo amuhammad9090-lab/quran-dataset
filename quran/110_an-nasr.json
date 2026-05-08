@@ -1,0 +1,26 @@
+{
+  "number": 110,
+  "latinName": "An-Naṣr",
+  "arabicName": "النّصر",
+  "totalAyat": 3,
+  "ayahs": [
+    {
+      "numberInSurah": 1,
+      "numberGlobal": 6214,
+      "arabic": "اِذَا جَاۤءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+      "translation": "Apabila telah datang pertolongan Allah dan kemenangan"
+    },
+    {
+      "numberInSurah": 2,
+      "numberGlobal": 6215,
+      "arabic": "وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًاۙ",
+      "translation": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,"
+    },
+    {
+      "numberInSurah": 3,
+      "numberGlobal": 6216,
+      "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا ࣖ",
+      "translation": "bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia Maha Penerima tobat."
+    }
+  ]
+}

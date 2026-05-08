@@ -1,0 +1,26 @@
+{
+  "number": 103,
+  "latinName": "Al-‘Aṣr",
+  "arabicName": "العصر",
+  "totalAyat": 3,
+  "ayahs": [
+    {
+      "numberInSurah": 1,
+      "numberGlobal": 6177,
+      "arabic": "وَالْعَصْرِۙ",
+      "translation": "Demi masa,"
+    },
+    {
+      "numberInSurah": 2,
+      "numberGlobal": 6178,
+      "arabic": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
+      "translation": "sesungguhnya manusia benar-benar berada dalam kerugian,"
+    },
+    {
+      "numberInSurah": 3,
+      "numberGlobal": 6179,
+      "arabic": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
+      "translation": "kecuali orang-orang yang beriman dan beramal saleh serta saling menasihati untuk kebenaran dan kesabaran."
+    }
+  ]
+}

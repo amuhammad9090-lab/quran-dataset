@@ -1,0 +1,32 @@
+{
+  "number": 106,
+  "latinName": "Quraisy",
+  "arabicName": "قريش",
+  "totalAyat": 4,
+  "ayahs": [
+    {
+      "numberInSurah": 1,
+      "numberGlobal": 6194,
+      "arabic": "لِاِيْلٰفِ قُرَيْشٍۙ",
+      "translation": "Disebabkan oleh kebiasaan orang-orang Quraisy,"
+    },
+    {
+      "numberInSurah": 2,
+      "numberGlobal": 6195,
+      "arabic": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
+      "translation": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas (sehingga mendapatkan banyak keuntungan),"
+    },
+    {
+      "numberInSurah": 3,
+      "numberGlobal": 6196,
+      "arabic": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
+      "translation": "maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah)"
+    },
+    {
+      "numberInSurah": 4,
+      "numberGlobal": 6197,
+      "arabic": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ",
+      "translation": "yang telah memberi mereka makanan untuk menghilangkan lapar dan mengamankan mereka dari rasa takut."
+    }
+  ]
+}

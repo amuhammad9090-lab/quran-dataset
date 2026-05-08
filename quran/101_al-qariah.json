@@ -1,0 +1,74 @@
+{
+  "number": 101,
+  "latinName": "Al-Qāri‘ah",
+  "arabicName": "القارعة",
+  "totalAyat": 11,
+  "ayahs": [
+    {
+      "numberInSurah": 1,
+      "numberGlobal": 6158,
+      "arabic": "اَلْقَارِعَةُۙ",
+      "translation": "Al-Qāri‘ah (hari Kiamat yang menggetarkan)."
+    },
+    {
+      "numberInSurah": 2,
+      "numberGlobal": 6159,
+      "arabic": "مَا الْقَارِعَةُ ۚ",
+      "translation": "Apakah al-Qāri‘ah itu?"
+    },
+    {
+      "numberInSurah": 3,
+      "numberGlobal": 6160,
+      "arabic": "وَمَآ اَدْرٰىكَ مَا الْقَارِعَةُ ۗ",
+      "translation": "Tahukah kamu apakah al-Qāri‘ah itu?"
+    },
+    {
+      "numberInSurah": 4,
+      "numberGlobal": 6161,
+      "arabic": "يَوْمَ يَكُوْنُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوْثِۙ",
+      "translation": "Pada hari itu manusia seperti laron yang beterbangan"
+    },
+    {
+      "numberInSurah": 5,
+      "numberGlobal": 6162,
+      "arabic": "وَتَكُوْنُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوْشِۗ",
+      "translation": "dan gunung-gunung seperti bulu yang berhamburan."
+    },
+    {
+      "numberInSurah": 6,
+      "numberGlobal": 6163,
+      "arabic": "فَاَمَّا مَنْ ثَقُلَتْ مَوَازِيْنُهٗۙ",
+      "translation": "Siapa yang berat timbangan (kebaikan)-nya,"
+    },
+    {
+      "numberInSurah": 7,
+      "numberGlobal": 6164,
+      "arabic": "فَهُوَ فِيْ عِيْشَةٍ رَّاضِيَةٍۗ",
+      "translation": "dia berada dalam kehidupan yang menyenangkan."
+    },
+    {
+      "numberInSurah": 8,
+      "numberGlobal": 6165,
+      "arabic": "وَاَمَّا مَنْ خَفَّتْ مَوَازِيْنُهٗۙ",
+      "translation": "Adapun orang yang ringan timbangan (kebaikan)-nya,"
+    },
+    {
+      "numberInSurah": 9,
+      "numberGlobal": 6166,
+      "arabic": "فَاُمُّهٗ هَاوِيَةٌ  ۗ",
+      "translation": "tempat kembalinya adalah (neraka) Hawiyah."
+    },
+    {
+      "numberInSurah": 10,
+      "numberGlobal": 6167,
+      "arabic": "وَمَآ اَدْرٰىكَ مَا هِيَهْۗ",
+      "translation": "Tahukah kamu apakah (neraka Hawiyah) itu?"
+    },
+    {
+      "numberInSurah": 11,
+      "numberGlobal": 6168,
+      "arabic": "نَارٌ حَامِيَةٌ ࣖ",
+      "translation": "(Ia adalah) api yang sangat panas."
+    }
+  ]
+}
