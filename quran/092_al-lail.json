@@ -1,0 +1,134 @@
+{
+  "number": 92,
+  "latinName": "Al-Lail",
+  "arabicName": "الّيل",
+  "totalAyat": 21,
+  "ayahs": [
+    {
+      "numberInSurah": 1,
+      "numberGlobal": 6059,
+      "arabic": "وَالَّيْلِ اِذَا يَغْشٰىۙ",
+      "translation": "Demi malam apabila menutupi (cahaya siang),"
+    },
+    {
+      "numberInSurah": 2,
+      "numberGlobal": 6060,
+      "arabic": "وَالنَّهَارِ اِذَا تَجَلّٰىۙ",
+      "translation": "demi siang apabila terang benderang,"
+    },
+    {
+      "numberInSurah": 3,
+      "numberGlobal": 6061,
+      "arabic": "وَمَا خَلَقَ الذَّكَرَ وَالْاُنْثٰىٓ ۙ",
+      "translation": "dan demi penciptaan laki-laki dan perempuan,"
+    },
+    {
+      "numberInSurah": 4,
+      "numberGlobal": 6062,
+      "arabic": "اِنَّ سَعْيَكُمْ لَشَتّٰىۗ",
+      "translation": "sesungguhnya usahamu benar-benar beraneka ragam."
+    },
+    {
+      "numberInSurah": 5,
+      "numberGlobal": 6063,
+      "arabic": "فَاَمَّا مَنْ اَعْطٰى وَاتَّقٰىۙ",
+      "translation": "Siapa yang memberikan (hartanya di jalan Allah) dan bertakwa"
+    },
+    {
+      "numberInSurah": 6,
+      "numberGlobal": 6064,
+      "arabic": "وَصَدَّقَ بِالْحُسْنٰىۙ",
+      "translation": "serta membenarkan adanya (balasan) yang terbaik (surga),"
+    },
+    {
+      "numberInSurah": 7,
+      "numberGlobal": 6065,
+      "arabic": "فَسَنُيَسِّرُهٗ لِلْيُسْرٰىۗ",
+      "translation": "Kami akan melapangkan baginya jalan kemudahan (kebahagiaan)."
+    },
+    {
+      "numberInSurah": 8,
+      "numberGlobal": 6066,
+      "arabic": "وَاَمَّا مَنْۢ بَخِلَ وَاسْتَغْنٰىۙ",
+      "translation": "Adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah)"
+    },
+    {
+      "numberInSurah": 9,
+      "numberGlobal": 6067,
+      "arabic": "وَكَذَّبَ بِالْحُسْنٰىۙ",
+      "translation": "serta mendustakan (balasan) yang terbaik,"
+    },
+    {
+      "numberInSurah": 10,
+      "numberGlobal": 6068,
+      "arabic": "فَسَنُيَسِّرُهٗ لِلْعُسْرٰىۗ",
+      "translation": "Kami akan memudahkannya menuju jalan kesengsaraan."
+    },
+    {
+      "numberInSurah": 11,
+      "numberGlobal": 6069,
+      "arabic": "وَمَا يُغْنِيْ عَنْهُ مَالُهٗٓ اِذَا تَرَدّٰىٓۙ",
+      "translation": "Hartanya tidak bermanfaat baginya apabila dia telah binasa."
+    },
+    {
+      "numberInSurah": 12,
+      "numberGlobal": 6070,
+      "arabic": "اِنَّ عَلَيْنَا لَلْهُدٰىۖ",
+      "translation": "Sesungguhnya Kamilah yang (berhak) memberi petunjuk."
+    },
+    {
+      "numberInSurah": 13,
+      "numberGlobal": 6071,
+      "arabic": "وَاِنَّ لَنَا لَلْاٰخِرَةَ وَالْاُوْلٰىۗ",
+      "translation": "Sesungguhnya milik Kamilah akhirat dan dunia."
+    },
+    {
+      "numberInSurah": 14,
+      "numberGlobal": 6072,
+      "arabic": "فَاَنْذَرْتُكُمْ نَارًا تَلَظّٰىۚ",
+      "translation": "Aku memperingatkanmu dengan neraka yang menyala-nyala."
+    },
+    {
+      "numberInSurah": 15,
+      "numberGlobal": 6073,
+      "arabic": "لَا يَصْلٰىهَآ اِلَّا الْاَشْقَىۙ",
+      "translation": "Tidak masuk ke dalamnya kecuali orang yang paling celaka,"
+    },
+    {
+      "numberInSurah": 16,
+      "numberGlobal": 6074,
+      "arabic": "الَّذِيْ كَذَّبَ وَتَوَلّٰىۗ",
+      "translation": "yang mendustakan (kebenaran) dan berpaling (dari keimanan)."
+    },
+    {
+      "numberInSurah": 17,
+      "numberGlobal": 6075,
+      "arabic": "وَسَيُجَنَّبُهَا الْاَتْقَىۙ",
+      "translation": "Akan dijauhkan darinya (neraka) orang yang paling bertakwa,"
+    },
+    {
+      "numberInSurah": 18,
+      "numberGlobal": 6076,
+      "arabic": "الَّذِيْ يُؤْتِيْ مَالَهٗ يَتَزَكّٰىۚ",
+      "translation": "yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (diri dari sifat kikir dan tamak)."
+    },
+    {
+      "numberInSurah": 19,
+      "numberGlobal": 6077,
+      "arabic": "وَمَا لِاَحَدٍ عِنْدَهٗ مِنْ نِّعْمَةٍ تُجْزٰىٓۙ",
+      "translation": "Tidak ada suatu nikmat pun yang diberikan seseorang kepadanya yang harus dibalas,758)"
+    },
+    {
+      "numberInSurah": 20,
+      "numberGlobal": 6078,
+      "arabic": "اِلَّا ابْتِغَاۤءَ وَجْهِ رَبِّهِ الْاَعْلٰىۚ",
+      "translation": "kecuali (dia memberikannya semata-mata) karena mencari keridaan Tuhannya Yang Maha Tinggi."
+    },
+    {
+      "numberInSurah": 21,
+      "numberGlobal": 6079,
+      "arabic": "وَلَسَوْفَ يَرْضٰى ࣖ",
+      "translation": "Sungguh, kelak dia akan mendapatkan kepuasan (menerima balasan amalnya)."
+    }
+  ]
+}

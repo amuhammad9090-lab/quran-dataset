@@ -1,0 +1,56 @@
+{
+  "number": 99,
+  "latinName": "Az-Zalzalah",
+  "arabicName": "الزّلزلة",
+  "totalAyat": 8,
+  "ayahs": [
+    {
+      "numberInSurah": 1,
+      "numberGlobal": 6139,
+      "arabic": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ",
+      "translation": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,"
+    },
+    {
+      "numberInSurah": 2,
+      "numberGlobal": 6140,
+      "arabic": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ",
+      "translation": "bumi mengeluarkan isi perutnya,"
+    },
+    {
+      "numberInSurah": 3,
+      "numberGlobal": 6141,
+      "arabic": "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ",
+      "translation": "dan manusia bertanya, “Apa yang terjadi dengannya (bumi)?”"
+    },
+    {
+      "numberInSurah": 4,
+      "numberGlobal": 6142,
+      "arabic": "يَوْمَىِٕذٍ تُحَدِّثُ اَخْبَارَهَاۙ",
+      "translation": "Pada hari itu (bumi) menyampaikan berita (tentang apa yang diperbuat manusia di atasnya)"
+    },
+    {
+      "numberInSurah": 5,
+      "numberGlobal": 6143,
+      "arabic": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۗ",
+      "translation": "karena sesungguhnya Tuhanmu telah memerintahkan (yang demikian itu) kepadanya."
+    },
+    {
+      "numberInSurah": 6,
+      "numberGlobal": 6144,
+      "arabic": "يَوْمَىِٕذٍ يَّصْدُرُ النَّاسُ اَشْتَاتًا ەۙ لِّيُرَوْا اَعْمَالَهُمْۗ",
+      "translation": "Pada hari itu manusia keluar (dari kuburnya) dalam keadaan terpencar untuk diperlihatkan kepada mereka (balasan) semua perbuatan mereka."
+    },
+    {
+      "numberInSurah": 7,
+      "numberGlobal": 6145,
+      "arabic": "فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ",
+      "translation": "Siapa yang mengerjakan kebaikan seberat zarah, dia akan melihat (balasan)-nya."
+    },
+    {
+      "numberInSurah": 8,
+      "numberGlobal": 6146,
+      "arabic": "وَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ ࣖ",
+      "translation": "Siapa yang mengerjakan kejahatan seberat zarah, dia akan melihat (balasan)-nya."
+    }
+  ]
+}

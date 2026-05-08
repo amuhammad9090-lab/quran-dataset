@@ -1,0 +1,320 @@
+{
+  "number": 68,
+  "latinName": "Al-Qalam",
+  "arabicName": "القلم",
+  "totalAyat": 52,
+  "ayahs": [
+    {
+      "numberInSurah": 1,
+      "numberGlobal": 5272,
+      "arabic": "نۤ ۚوَالْقَلَمِ وَمَا يَسْطُرُوْنَۙ",
+      "translation": "Nūn. Demi pena dan apa yang mereka tuliskan,"
+    },
+    {
+      "numberInSurah": 2,
+      "numberGlobal": 5273,
+      "arabic": "مَآ اَنْتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُوْنٍ",
+      "translation": "berkat karunia Tuhanmu engkau (Nabi Muhammad) bukanlah orang gila."
+    },
+    {
+      "numberInSurah": 3,
+      "numberGlobal": 5274,
+      "arabic": "وَاِنَّ لَكَ لَاَجْرًا غَيْرَ مَمْنُوْنٍۚ",
+      "translation": "Sesungguhnya bagi engkaulah pahala yang tidak putus-putus."
+    },
+    {
+      "numberInSurah": 4,
+      "numberGlobal": 5275,
+      "arabic": "وَاِنَّكَ لَعَلٰى خُلُقٍ عَظِيْمٍ",
+      "translation": "Sesungguhnya engkau benar-benar berbudi pekerti yang agung."
+    },
+    {
+      "numberInSurah": 5,
+      "numberGlobal": 5276,
+      "arabic": "فَسَتُبْصِرُ وَيُبْصِرُوْنَۙ",
+      "translation": "Kelak engkau akan melihat dan mereka (orang-orang kafir) pun akan melihat,"
+    },
+    {
+      "numberInSurah": 6,
+      "numberGlobal": 5277,
+      "arabic": "بِاَيِّىكُمُ الْمَفْتُوْنُ",
+      "translation": "siapa di antara kamu yang gila?"
+    },
+    {
+      "numberInSurah": 7,
+      "numberGlobal": 5278,
+      "arabic": "اِنَّ رَبَّكَ هُوَ اَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيْلِهٖۖ وَهُوَ اَعْلَمُ بِالْمُهْتَدِيْنَ",
+      "translation": "Sesungguhnya Tuhanmulah yang paling mengetahui siapa yang sesat dari jalan-Nya. Dialah yang paling mengetahui siapa orang yang mendapat petunjuk."
+    },
+    {
+      "numberInSurah": 8,
+      "numberGlobal": 5279,
+      "arabic": "فَلَا تُطِعِ الْمُكَذِّبِيْنَ",
+      "translation": "Maka, janganlah engkau patuhi orang-orang yang mendustakan (ayat-ayat Allah)."
+    },
+    {
+      "numberInSurah": 9,
+      "numberGlobal": 5280,
+      "arabic": "وَدُّوْا لَوْ تُدْهِنُ فَيُدْهِنُوْنَۚ",
+      "translation": "Mereka menginginkan agar engkau bersikap lunak. Maka, mereka bersikap lunak (pula)."
+    },
+    {
+      "numberInSurah": 10,
+      "numberGlobal": 5281,
+      "arabic": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِيْنٍۙ",
+      "translation": "Janganlah engkau patuhi setiap orang yang suka bersumpah lagi berkepribadian hina,"
+    },
+    {
+      "numberInSurah": 11,
+      "numberGlobal": 5282,
+      "arabic": "هَمَّازٍ مَّشَّاۤءٍۢ بِنَمِيْمٍۙ",
+      "translation": "suka mencela, (berjalan) kian kemari menyebarkan fitnah (berita bohong),"
+    },
+    {
+      "numberInSurah": 12,
+      "numberGlobal": 5283,
+      "arabic": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ اَثِيْمٍۙ",
+      "translation": "merintangi segala yang baik, melampaui batas dan banyak dosa,"
+    },
+    {
+      "numberInSurah": 13,
+      "numberGlobal": 5284,
+      "arabic": "عُتُلٍّۢ بَعْدَ ذٰلِكَ زَنِيْمٍۙ",
+      "translation": "bertabiat kasar, dan selain itu juga terkenal kejahatannya,"
+    },
+    {
+      "numberInSurah": 14,
+      "numberGlobal": 5285,
+      "arabic": "اَنْ كَانَ ذَا مَالٍ وَّبَنِيْنَۗ",
+      "translation": "karena dia kaya dan mempunyai banyak anak."
+    },
+    {
+      "numberInSurah": 15,
+      "numberGlobal": 5286,
+      "arabic": "اِذَا تُتْلٰى عَلَيْهِ اٰيٰتُنَا قَالَ اَسَاطِيْرُ الْاَوَّلِيْنَۗ",
+      "translation": "Apabila ayat-ayat Kami dibacakan kepadanya, dia berkata, “(Ini adalah) dongengan orang-orang terdahulu.”"
+    },
+    {
+      "numberInSurah": 16,
+      "numberGlobal": 5287,
+      "arabic": "سَنَسِمُهٗ عَلَى الْخُرْطُوْمِ",
+      "translation": "Kelak dia akan Kami beri tanda pada belalai (hidung)-nya."
+    },
+    {
+      "numberInSurah": 17,
+      "numberGlobal": 5288,
+      "arabic": "اِنَّا بَلَوْنٰهُمْ كَمَا بَلَوْنَآ اَصْحٰبَ الْجَنَّةِۚ اِذْ اَقْسَمُوْا لَيَصْرِمُنَّهَا مُصْبِحِيْنَۙ",
+      "translation": "Sesungguhnya Kami telah menguji mereka (orang musyrik Makkah) sebagaimana Kami telah menguji pemilik-pemilik kebun ketika mereka bersumpah bahwa mereka pasti akan memetik (hasil)-nya pada pagi hari,"
+    },
+    {
+      "numberInSurah": 18,
+      "numberGlobal": 5289,
+      "arabic": "وَلَا يَسْتَثْنُوْنَ",
+      "translation": "tetapi mereka tidak mengecualikan (dengan mengucapkan, “Insyaallah”)."
+    },
+    {
+      "numberInSurah": 19,
+      "numberGlobal": 5290,
+      "arabic": "فَطَافَ عَلَيْهَا طَاۤىِٕفٌ مِّنْ رَّبِّكَ وَهُمْ نَاۤىِٕمُوْنَ",
+      "translation": "Lalu, kebun itu ditimpa bencana (yang datang) dari Tuhanmu ketika mereka sedang tidur."
+    },
+    {
+      "numberInSurah": 20,
+      "numberGlobal": 5291,
+      "arabic": "فَاَصْبَحَتْ كَالصَّرِيْمِۙ",
+      "translation": "Maka, jadilah kebun itu hitam (karena terbakar) seperti malam yang gelap gulita."
+    },
+    {
+      "numberInSurah": 21,
+      "numberGlobal": 5292,
+      "arabic": "فَتَنَادَوْا مُصْبِحِيْنَۙ",
+      "translation": "Lalu, mereka saling memanggil pada pagi hari,"
+    },
+    {
+      "numberInSurah": 22,
+      "numberGlobal": 5293,
+      "arabic": "اَنِ اغْدُوْا عَلٰى حَرْثِكُمْ اِنْ كُنْتُمْ صٰرِمِيْنَ",
+      "translation": "“Pergilah pagi-pagi ke kebunmu jika kamu hendak memetik hasil.”"
+    },
+    {
+      "numberInSurah": 23,
+      "numberGlobal": 5294,
+      "arabic": "فَانْطَلَقُوْا وَهُمْ يَتَخَافَتُوْنَۙ",
+      "translation": "Mereka pun berangkat sambil berbisik-bisik,"
+    },
+    {
+      "numberInSurah": 24,
+      "numberGlobal": 5295,
+      "arabic": "اَنْ لَّا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُمْ مِّسْكِيْنٌۙ",
+      "translation": "“Pada hari ini jangan sampai ada orang miskin yang masuk ke dalam kebunmu.”"
+    },
+    {
+      "numberInSurah": 25,
+      "numberGlobal": 5296,
+      "arabic": "وَّغَدَوْا عَلٰى حَرْدٍ قٰدِرِيْنَ",
+      "translation": "Berangkatlah mereka pada pagi hari dengan niat menghalangi (orang-orang miskin). Mereka mengira mampu (melakukan hal itu)."
+    },
+    {
+      "numberInSurah": 26,
+      "numberGlobal": 5297,
+      "arabic": "فَلَمَّا رَاَوْهَا قَالُوْٓا اِنَّا لَضَاۤلُّوْنَۙ",
+      "translation": "Ketika melihat kebun itu, mereka berkata, “Sesungguhnya kita benar-benar orang sesat."
+    },
+    {
+      "numberInSurah": 27,
+      "numberGlobal": 5298,
+      "arabic": "بَلْ نَحْنُ مَحْرُوْمُوْنَ",
+      "translation": "Bahkan, kita tidak memperoleh apa pun.”"
+    },
+    {
+      "numberInSurah": 28,
+      "numberGlobal": 5299,
+      "arabic": "قَالَ اَوْسَطُهُمْ اَلَمْ اَقُلْ لَّكُمْ لَوْلَا تُسَبِّحُوْنَ",
+      "translation": "Seorang yang paling bijak di antara mereka berkata, “Bukankah aku telah mengatakan kepadamu hendaklah kamu bertasbih (kepada Tuhanmu)?”"
+    },
+    {
+      "numberInSurah": 29,
+      "numberGlobal": 5300,
+      "arabic": "قَالُوْا سُبْحٰنَ رَبِّنَآ اِنَّا كُنَّا ظٰلِمِيْنَ",
+      "translation": "Mereka mengucapkan, “Maha Suci Tuhan kami. Sungguh, kami adalah orang-orang yang zalim.”"
+    },
+    {
+      "numberInSurah": 30,
+      "numberGlobal": 5301,
+      "arabic": "فَاَقْبَلَ بَعْضُهُمْ عَلٰى بَعْضٍ يَّتَلَاوَمُوْنَ",
+      "translation": "Mereka saling berhadapan dengan saling mencela."
+    },
+    {
+      "numberInSurah": 31,
+      "numberGlobal": 5302,
+      "arabic": "قَالُوْا يٰوَيْلَنَآ اِنَّا كُنَّا طٰغِيْنَ",
+      "translation": "Mereka berkata, “Aduh celaka kita! Sesungguhnya kita adalah orang-orang yang melampaui batas."
+    },
+    {
+      "numberInSurah": 32,
+      "numberGlobal": 5303,
+      "arabic": "عَسٰى رَبُّنَآ اَنْ يُّبْدِلَنَا خَيْرًا مِّنْهَآ اِنَّآ اِلٰى رَبِّنَا رٰغِبُوْنَ",
+      "translation": "Mudah-mudahan Tuhan memberikan ganti kepada kita dengan yang lebih baik daripadanya. Sesungguhnya kita mengharapkan (ampunan dan kebaikan) Tuhan kita.”"
+    },
+    {
+      "numberInSurah": 33,
+      "numberGlobal": 5304,
+      "arabic": "كَذٰلِكَ الْعَذَابُۗ وَلَعَذَابُ الْاٰخِرَةِ اَكْبَرُۘ لَوْ كَانُوْا يَعْلَمُوْنَ ࣖ",
+      "translation": "Seperti itulah azab (di dunia). Sungguh, azab akhirat lebih besar sekiranya mereka mengetahui."
+    },
+    {
+      "numberInSurah": 34,
+      "numberGlobal": 5305,
+      "arabic": "اِنَّ لِلْمُتَّقِيْنَ عِنْدَ رَبِّهِمْ جَنّٰتِ النَّعِيْمِ",
+      "translation": "Sesungguhnya orang-orang yang bertakwa mendapatkan surga yang penuh kenikmatan di sisi Tuhannya."
+    },
+    {
+      "numberInSurah": 35,
+      "numberGlobal": 5306,
+      "arabic": "اَفَنَجْعَلُ الْمُسْلِمِيْنَ كَالْمُجْرِمِيْنَۗ",
+      "translation": "Apakah patut Kami memperlakukan orang-orang Islam (orang yang tunduk kepada Allah) seperti orang-orang yang pendurhaka (orang kafir)?"
+    },
+    {
+      "numberInSurah": 36,
+      "numberGlobal": 5307,
+      "arabic": "مَا لَكُمْۗ  كَيْفَ تَحْكُمُوْنَۚ",
+      "translation": "Mengapa kamu (berbuat demikian)? Bagaimana kamu mengambil putusan?"
+    },
+    {
+      "numberInSurah": 37,
+      "numberGlobal": 5308,
+      "arabic": "اَمْ لَكُمْ كِتٰبٌ فِيْهِ تَدْرُسُوْنَۙ",
+      "translation": "Atau, apakah kamu mempunyai kitab (yang diturunkan Allah) yang kamu pelajari?"
+    },
+    {
+      "numberInSurah": 38,
+      "numberGlobal": 5309,
+      "arabic": "اِنَّ لَكُمْ فِيْهِ لَمَا تَخَيَّرُوْنَۚ",
+      "translation": "Sesungguhnya di dalamnya kamu dapat memilih apa saja yang kamu sukai."
+    },
+    {
+      "numberInSurah": 39,
+      "numberGlobal": 5310,
+      "arabic": "اَمْ لَكُمْ اَيْمَانٌ عَلَيْنَا بَالِغَةٌ اِلٰى يَوْمِ الْقِيٰمَةِۙ اِنَّ لَكُمْ لَمَا تَحْكُمُوْنَۚ",
+      "translation": "Atau, apakah kamu memperoleh (janji-janji yang diperkuat dengan) sumpah dari Kami, yang tetap berlaku sampai hari Kiamat, (yakni) bahwa kamu dapat mengambil putusan (sekehendakmu)?"
+    },
+    {
+      "numberInSurah": 40,
+      "numberGlobal": 5311,
+      "arabic": "سَلْهُمْ اَيُّهُمْ بِذٰلِكَ زَعِيْمٌۚ",
+      "translation": "Tanyakanlah kepada mereka (kaum musyrik) siapakah di antara mereka yang bertanggung jawab terhadap (putusan yang diambil itu)."
+    },
+    {
+      "numberInSurah": 41,
+      "numberGlobal": 5312,
+      "arabic": "اَمْ لَهُمْ شُرَكَاۤءُۚ فَلْيَأْتُوْا بِشُرَكَاۤىِٕهِمْ اِنْ كَانُوْا صٰدِقِيْنَ",
+      "translation": "Atau, apakah mereka mempunyai sekutu-sekutu? Kalau begitu, hendaklah mereka mendatangkan sekutu-sekutunya jika mereka orang-orang benar."
+    },
+    {
+      "numberInSurah": 42,
+      "numberGlobal": 5313,
+      "arabic": "يَوْمَ يُكْشَفُ عَنْ سَاقٍ وَّيُدْعَوْنَ اِلَى السُّجُوْدِ فَلَا يَسْتَطِيْعُوْنَۙ",
+      "translation": "(Ingatlah) pada hari ketika betis disingkapkan (yakni huru-hara di hari Kiamat) dan mereka diseru untuk bersujud. Namun, mereka tidak mampu."
+    },
+    {
+      "numberInSurah": 43,
+      "numberGlobal": 5314,
+      "arabic": "خَاشِعَةً اَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ  ۗوَقَدْ كَانُوْا يُدْعَوْنَ اِلَى السُّجُوْدِ وَهُمْ سٰلِمُوْنَ",
+      "translation": "Pandangan mereka tertunduk dan diliputi kehinaan. Sungguh, dahulu (di dunia) mereka telah diseru untuk bersujud pada waktu mereka sehat (tetapi mereka enggan)."
+    },
+    {
+      "numberInSurah": 44,
+      "numberGlobal": 5315,
+      "arabic": "فَذَرْنِيْ وَمَنْ يُّكَذِّبُ بِهٰذَا الْحَدِيْثِۗ سَنَسْتَدْرِجُهُمْ مِّنْ حَيْثُ لَا يَعْلَمُوْنَۙ",
+      "translation": "Biarkan Aku bersama orang-orang yang mendustakan perkataan ini (Al-Qur’an). Kelak akan Kami biarkan mereka berangsur-angsur (menuju kebinasaan) dari arah yang tidak mereka ketahui."
+    },
+    {
+      "numberInSurah": 45,
+      "numberGlobal": 5316,
+      "arabic": "وَاُمْلِيْ لَهُمْۗ اِنَّ كَيْدِيْ مَتِيْنٌ",
+      "translation": "Aku memberi tenggang waktu kepada mereka. Sesungguhnya rencana-Ku sangat teguh."
+    },
+    {
+      "numberInSurah": 46,
+      "numberGlobal": 5317,
+      "arabic": "اَمْ تَسْـَٔلُهُمْ اَجْرًا فَهُمْ مِّنْ مَّغْرَمٍ مُّثْقَلُوْنَۚ",
+      "translation": "Ataukah engkau (Nabi Muhammad) meminta imbalan kepada mereka sehingga mereka dibebani utang?"
+    },
+    {
+      "numberInSurah": 47,
+      "numberGlobal": 5318,
+      "arabic": "اَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُوْنَ",
+      "translation": "Ataukah mereka mengetahui yang gaib lalu mereka menuliskannya?"
+    },
+    {
+      "numberInSurah": 48,
+      "numberGlobal": 5319,
+      "arabic": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُنْ كَصَاحِبِ الْحُوْتِۘ اِذْ نَادٰى وَهُوَ مَكْظُوْمٌۗ",
+      "translation": "Oleh karena itu, bersabarlah (Nabi Muhammad) terhadap ketetapan Tuhanmu dan janganlah seperti orang yang berada dalam (perut) ikan (Yunus) ketika dia berdoa dengan hati sedih."
+    },
+    {
+      "numberInSurah": 49,
+      "numberGlobal": 5320,
+      "arabic": "لَوْلَآ اَنْ تَدٰرَكَهٗ نِعْمَةٌ مِّنْ رَّبِّهٖ لَنُبِذَ بِالْعَرَاۤءِ وَهُوَ مَذْمُوْمٌ",
+      "translation": "Seandainya dia tidak segera mendapat nikmat dari Tuhannya, pastilah dia dicampakkan ke tanah tandus dalam keadaan tercela."
+    },
+    {
+      "numberInSurah": 50,
+      "numberGlobal": 5321,
+      "arabic": "فَاجْتَبٰىهُ رَبُّهٗ فَجَعَلَهٗ مِنَ الصّٰلِحِيْنَ",
+      "translation": "Tuhannya lalu memilihnya dan menjadikannya termasuk orang-orang saleh."
+    },
+    {
+      "numberInSurah": 51,
+      "numberGlobal": 5322,
+      "arabic": "وَاِنْ يَّكَادُ الَّذِيْنَ كَفَرُوْا لَيُزْلِقُوْنَكَ بِاَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ وَيَقُوْلُوْنَ اِنَّهٗ لَمَجْنُوْنٌ ۘ",
+      "translation": "Sesungguhnya orang-orang yang kufur itu hampir-hampir menggelincirkanmu dengan pandangan matanya ketika mereka mendengar Al-Qur’an dan berkata, “Sesungguhnya dia (Nabi Muhammad) benar-benar orang gila.”"
+    },
+    {
+      "numberInSurah": 52,
+      "numberGlobal": 5323,
+      "arabic": "وَمَا هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَ ࣖ",
+      "translation": "(Al-Qur’an) itu tidak lain kecuali peringatan bagi seluruh alam."
+    }
+  ]
+}

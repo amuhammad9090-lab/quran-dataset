@@ -1,0 +1,74 @@
+{
+  "number": 100,
+  "latinName": "Al-‘Ādiyāt",
+  "arabicName": "العٰديٰت",
+  "totalAyat": 11,
+  "ayahs": [
+    {
+      "numberInSurah": 1,
+      "numberGlobal": 6147,
+      "arabic": "وَالْعٰدِيٰتِ ضَبْحًاۙ",
+      "translation": "Demi kuda-kuda perang yang berlari kencang terengah-engah,"
+    },
+    {
+      "numberInSurah": 2,
+      "numberGlobal": 6148,
+      "arabic": "فَالْمُوْرِيٰتِ قَدْحًاۙ",
+      "translation": "yang memercikkan bunga api (dengan entakan kakinya),"
+    },
+    {
+      "numberInSurah": 3,
+      "numberGlobal": 6149,
+      "arabic": "فَالْمُغِيْرٰتِ صُبْحًاۙ",
+      "translation": "yang menyerang (dengan tiba-tiba) pada waktu pagi"
+    },
+    {
+      "numberInSurah": 4,
+      "numberGlobal": 6150,
+      "arabic": "فَاَثَرْنَ بِهٖ نَقْعًاۙ",
+      "translation": "sehingga menerbangkan debu,"
+    },
+    {
+      "numberInSurah": 5,
+      "numberGlobal": 6151,
+      "arabic": "فَوَسَطْنَ بِهٖ جَمْعًاۙ",
+      "translation": "lalu menyerbu ke tengah-tengah kumpulan musuh,"
+    },
+    {
+      "numberInSurah": 6,
+      "numberGlobal": 6152,
+      "arabic": "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُوْدٌ ۚ",
+      "translation": "sesungguhnya manusia itu sangatlah ingkar kepada Tuhannya."
+    },
+    {
+      "numberInSurah": 7,
+      "numberGlobal": 6153,
+      "arabic": "وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيْدٌۚ",
+      "translation": "Sesungguhnya dia benar-benar menjadi saksi atas hal itu (keingkarannya)."
+    },
+    {
+      "numberInSurah": 8,
+      "numberGlobal": 6154,
+      "arabic": "وَاِنَّهٗ لِحُبِّ الْخَيْرِ لَشَدِيْدٌ ۗ",
+      "translation": "Sesungguhnya cintanya pada harta benar-benar berlebihan."
+    },
+    {
+      "numberInSurah": 9,
+      "numberGlobal": 6155,
+      "arabic": "۞ اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِى الْقُبُوْرِۙ",
+      "translation": "Maka, tidakkah dia mengetahui (apa yang akan dialaminya) apabila dikeluarkan apa yang ada di dalam kubur"
+    },
+    {
+      "numberInSurah": 10,
+      "numberGlobal": 6156,
+      "arabic": "وَحُصِّلَ مَا فِى الصُّدُوْرِۙ",
+      "translation": "dan ditampakkan apa yang tersimpan di dalam dada?"
+    },
+    {
+      "numberInSurah": 11,
+      "numberGlobal": 6157,
+      "arabic": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَىِٕذٍ لَّخَبِيْرٌ ࣖ",
+      "translation": "Sesungguhnya Tuhan mereka pada hari itu benar-benar Maha Teliti terhadap (keadaan) mereka."
+    }
+  ]
+}

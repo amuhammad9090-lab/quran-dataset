@@ -1,0 +1,56 @@
+{
+  "number": 95,
+  "latinName": "At-Tīn",
+  "arabicName": "التّين",
+  "totalAyat": 8,
+  "ayahs": [
+    {
+      "numberInSurah": 1,
+      "numberGlobal": 6099,
+      "arabic": "وَالتِّيْنِ وَالزَّيْتُوْنِۙ",
+      "translation": "Demi (buah) tin dan (buah) zaitun,"
+    },
+    {
+      "numberInSurah": 2,
+      "numberGlobal": 6100,
+      "arabic": "وَطُوْرِ سِيْنِيْنَۙ",
+      "translation": "demi gunung Sinai,"
+    },
+    {
+      "numberInSurah": 3,
+      "numberGlobal": 6101,
+      "arabic": "وَهٰذَا الْبَلَدِ الْاَمِيْنِۙ",
+      "translation": "dan demi negeri (Makkah) yang aman ini,"
+    },
+    {
+      "numberInSurah": 4,
+      "numberGlobal": 6102,
+      "arabic": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْٓ اَحْسَنِ تَقْوِيْمٍۖ",
+      "translation": "sungguh, Kami benar-benar telah menciptakan manusia dalam bentuk yang sebaik-baiknya."
+    },
+    {
+      "numberInSurah": 5,
+      "numberGlobal": 6103,
+      "arabic": "ثُمَّ رَدَدْنٰهُ اَسْفَلَ سٰفِلِيْنَۙ",
+      "translation": "Kemudian, kami kembalikan dia ke tempat yang serendah-rendahnya,"
+    },
+    {
+      "numberInSurah": 6,
+      "numberGlobal": 6104,
+      "arabic": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍۗ",
+      "translation": "kecuali orang-orang yang beriman dan mengerjakan kebajikan. Maka, mereka akan mendapat pahala yang tidak putus-putusnya."
+    },
+    {
+      "numberInSurah": 7,
+      "numberGlobal": 6105,
+      "arabic": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّيْنِۗ",
+      "translation": "Maka, apa alasanmu (wahai orang kafir) mendustakan hari Pembalasan setelah (adanya bukti-bukti) itu?"
+    },
+    {
+      "numberInSurah": 8,
+      "numberGlobal": 6106,
+      "arabic": "اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحٰكِمِيْنَ ࣖ",
+      "translation": "Bukankah Allah hakim yang paling adil?"
+    }
+  ]
+}
